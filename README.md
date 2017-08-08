@@ -6,4 +6,4 @@ This library is required to compile BITalino R-IoT's firmware.
 
 #### installation
 
-Drop the bitalino folder into your `Documents/Energia/libraries` folder.
+Drop the bitalino folder into `Documents/Energia/libraries` folder.
